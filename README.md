@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavanikumar1509" alt="bhavanikumar1509" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, React js , Angular**
+- 🌱 I’m currently learning **Django, React js, Microservices **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhavanikumar1509/](https://github.com/Bhavanikumar1509/)
 
